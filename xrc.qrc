@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/travel-holiday-vacation-327_89074.png</file>
+    <file>icons/spa.jpg</file>
+    <file>icons/home.jpg</file>
+    <file>image/wall.png</file>
+    <file>icons/add.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/update.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>image/wallhaven-4d7r2g.png</file>
+    <file>image/wallhaven-48wwry.jpg</file>
+    <file>image/wallhaven-4o1gmp.jpg</file>
+    <file>image/wallhaven-4o1gmp.jpg</file>
+    <file>image/wallhaven-w83j76.jpg</file>
+    <file>image/wallhaven-lqej2l.jpg</file>
+    <file>image/wallhaven-dgpj33.jpg</file>
+    <file>image/wallhaven-mdeo68.jpg</file>
+    <file>image/space.jpg</file>
+  </qresource>
+</RCC>

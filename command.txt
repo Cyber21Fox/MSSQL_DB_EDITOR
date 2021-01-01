@@ -1,0 +1,4 @@
+pyuic5 F:\Develop\PyProject\MsSQLDB\design.ui -o F:\Develop\PyProject\MsSQLDB\design.py
+pyuic5 F:\Develop\PyProject\MsSQLDB\enter.ui -o F:\Develop\PyProject\MsSQLDB\enter.py
+pyrcc5 F:\Develop\PyProject\MsSQLDB\xrc.qrc -o F:\Develop\PyProject\MsSQLDB\xrc_rc.py
+pyuic5 F:\Develop\PyProject\MsSQLDB\user_panel.ui -o F:\Develop\PyProject\MsSQLDB\user_panel.py
